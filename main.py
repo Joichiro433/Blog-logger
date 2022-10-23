@@ -27,7 +27,7 @@ def main():
 
 if __name__ == '__main__':
     try:
-        logger.info('##### Bigin #####')
+        logger.info('##### Begin #####')
         main()
 
     except Exception as e:
